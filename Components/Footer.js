@@ -12,7 +12,7 @@ function Footer() {
           <p className="text-gray-50 text-sm text-center sm:text-left">
             © {year} Byte-Beats
             <a
-              href="https://twitter.com/soumyajit4419"
+              href="https://www.linkedin.com/in/jay-nandwana-india/"
               rel="noopener noreferrer"
               className="text-gray-50 ml-1"
               target="_blank"
