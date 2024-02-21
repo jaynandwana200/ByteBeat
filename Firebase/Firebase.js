@@ -4,15 +4,23 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDloVDHL0V8uhXyLd9ebmlmd7fKVX5YG_Y",
-  authDomain: "bytebeat-51b1a.firebaseapp.com",
-  databaseURL: "https://bytebeat-51b1a-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "bytebeat-51b1a",
-  storageBucket: "bytebeat-51b1a.appspot.com",
-  messagingSenderId: "308556387750",
-  appId: "1:308556387750:web:0a1ce3b14747ea994d2b67",
-  measurementId: "G-GGY3E3Y7J4"
+
+  apiKey: "AIzaSyBTh9AWt-gp_9M9eMUdmnaBQaAHIIuoX74",
+
+  authDomain: "beat-byte-f7224.firebaseapp.com",
+
+  projectId: "beat-byte-f7224",
+
+  storageBucket: "beat-byte-f7224.appspot.com",
+
+  messagingSenderId: "479571559806",
+
+  appId: "1:479571559806:web:9fa96ddede5c55dc72df2f",
+
+  measurementId: "G-QDQ7N1VY4L"
+
 };
+
 
 const app = initializeApp(firebaseConfig);
 
