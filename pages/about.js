@@ -30,7 +30,7 @@ function about({ topics }) {
         </h2>
         <p className="text-gray-600 mt-4 dark:text-indigo-200">
           I am a self taught developer graduated in Bachelor of Engineering in 
-          Computer Science and Engineering in BIT Bengaluru. My field of Interest's are building new Web
+          Computer Science and Engineering in BIT Bengaluru. My field of Interests are building new Web
           Technologies and Products and also in areas related to Cyber Security.
         </p>
 
