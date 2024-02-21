@@ -12,8 +12,8 @@ function BlogShare({ data }) {
             target="_blank"
             href={`https://twitter.com/intent/tweet?text=${
               data.Title
-            } by @soumyajit4419
-            &url=blogs.soumya-jit.tech/blogs/${String(
+            } by @jaynandwana200 
+            &url=https://byte-beat.vercel.app/blogs/${String(
               data.Title.split(" ").join("-").toLowerCase()
             )}
             &hashtags=${data.Tags.split(" ")}`}
