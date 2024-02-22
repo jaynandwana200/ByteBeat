@@ -7,7 +7,7 @@ function BlogInner({ data, content, headings }) {
     <div className="mx-auto flex justify-center max-w-screen-xl px-6">
       <div className="rounded-lg shadow-lg bg-white dark:bg-gray-900 pb-8">
         <img
-          className="object-cover w-full h-72"
+          className="object-cover w-full h-72 object-scale-down"
           src={data.HeaderImage}
           alt="Article Image"
         />
